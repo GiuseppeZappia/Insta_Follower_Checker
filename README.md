@@ -75,7 +75,7 @@ All your data stays on your machine. The app doesn’t connect to the internet o
 Questa è una **versione beta**: potrebbero esserci bug.  
 This is a **beta version** – bugs may occur.
 
-📬 Per feedback o problemi, apri una [Issue](https://github.com/tuo-utente/tuo-repo/issues) o scrivimi direttamente.
+📬 Per feedback o problemi, apri una [Issue](https://github.com/GiuseppeZappia/Insta_Follower_Checker/issues) o scrivimi direttamente.
 
 ---
 
